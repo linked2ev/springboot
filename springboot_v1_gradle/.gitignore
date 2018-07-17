@@ -3,6 +3,8 @@
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
+*.class
+target/
 .apt_generated
 .classpath
 .factorypath
